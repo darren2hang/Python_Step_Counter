@@ -1,4 +1,4 @@
-# Python_Step_Counter
+# Python Step Counter
 A python function that counts the number of steps taken using acceleration data from a phone.
 
 The function finds the: 
